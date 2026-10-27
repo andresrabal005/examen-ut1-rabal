@@ -1,15 +1,11 @@
-# TODO: pon aquí el título del proyecto
+# Nautica Bahía
 
-TODO: escribe una frase con **negrita** que describa el proyecto.
+**Tienda y alquiler de material náutico en Puerto de Mazarrón**. 
 
 ## Funcionalidades
 
-TODO: lista con tres viñetas
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
 
-## Archivos
 
-TODO: tabla con dos columnas (Archivo | Función) y dos filas
-
-## Cómo ver la web
-
-TODO: bloque de código con el comando para abrir index.html
